@@ -1,0 +1,11 @@
+C:\Users\ees\source\repos\ChampionsLeague\ChampionsLeague\bin\Debug\ChampionsLeague.exe.config
+C:\Users\ees\source\repos\ChampionsLeague\ChampionsLeague\bin\Debug\ChampionsLeague.exe
+C:\Users\ees\source\repos\ChampionsLeague\ChampionsLeague\bin\Debug\ChampionsLeague.pdb
+C:\Users\ees\source\repos\ChampionsLeague\ChampionsLeague\obj\Debug\ChampionsLeague.csproj.AssemblyReference.cache
+C:\Users\ees\source\repos\ChampionsLeague\ChampionsLeague\obj\Debug\ChampionsLeague.Form1.resources
+C:\Users\ees\source\repos\ChampionsLeague\ChampionsLeague\obj\Debug\ChampionsLeague.Properties.Resources.resources
+C:\Users\ees\source\repos\ChampionsLeague\ChampionsLeague\obj\Debug\ChampionsLeague.csproj.GenerateResource.cache
+C:\Users\ees\source\repos\ChampionsLeague\ChampionsLeague\obj\Debug\ChampionsLeague.csproj.CoreCompileInputs.cache
+C:\Users\ees\source\repos\ChampionsLeague\ChampionsLeague\obj\Debug\ChampionsLeague.exe
+C:\Users\ees\source\repos\ChampionsLeague\ChampionsLeague\obj\Debug\ChampionsLeague.pdb
+C:\Users\ees\source\repos\ChampionsLeague\ChampionsLeague\obj\Debug\ChampionsLeague.Form2.resources
